@@ -476,6 +476,7 @@ class CircleChanger(object):
         self.circle.fill_color=self.colors[current]
 
         self.count = self.count+1
+        
 
 
 
